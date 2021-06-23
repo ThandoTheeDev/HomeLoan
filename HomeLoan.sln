@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeLoan", "HomeLoan\HomeLoan.csproj", "{204AA9AB-56A3-478A-89E1-DEE672DF5C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockFarmer", "..\StockFarmer\StockFarmer\StockFarmer.csproj", "{F851F6E4-7EA6-4EA6-BEC5-1CACDCDD2151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204AA9AB-56A3-478A-89E1-DEE672DF5C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204AA9AB-56A3-478A-89E1-DEE672DF5C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204AA9AB-56A3-478A-89E1-DEE672DF5C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204AA9AB-56A3-478A-89E1-DEE672DF5C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F851F6E4-7EA6-4EA6-BEC5-1CACDCDD2151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F851F6E4-7EA6-4EA6-BEC5-1CACDCDD2151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F851F6E4-7EA6-4EA6-BEC5-1CACDCDD2151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F851F6E4-7EA6-4EA6-BEC5-1CACDCDD2151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D686AB1-C5AA-4EE3-953B-DF8BDD66FCB1}
+	EndGlobalSection
+EndGlobal
